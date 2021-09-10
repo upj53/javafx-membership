@@ -22,7 +22,80 @@
 ### 0-3.Oracle 설치와 애플리케이션용 DB 생성 HelloOracleDB
 [![](http://img.youtube.com/vi/cnf_qzN-UEQ/0.jpg)](https://youtu.be/cnf_qzN-UEQ)
 
-## 1  
+## 1.GUI 구성 (SceneBuilder)
+
+<details><summary>GUI 디자인 정보 보기</summary>
+<pre>
+▶컬러 코드
+메인색 : #304dff
+보조색 : #ccd3ff
+-----------------------------------
+▶GUI 폼
+1.공통
+ > 로그인 폼
+2.사용자
+ > 회원가입 폼
+ > 회원정보 수정 폼
+3.관리자
+ > 회원관리 폼
+-----------------------------------
+▶JavaFX FXML 변수
+> 로그인 폼 JavaFX ID
+체크박스 : adminCheckBox
+사용자 아이디 : useridTextField
+사용자 암호 : passwordPasswordField
+로그인 버튼 : loginButton
+회원가입 버튼 : registrationButton
+취소 버튼 : cancelButton
+창닫기 버튼 : closeButton
+-----------------------------------
+> 회원가입 폼 JavaFX ID
+이름 : usernameTextField
+아이디 : useridTextField
+암호 : password1PasswordField
+암호 확인 : password2PasswordField
+학년 : hakTextField
+반 : banTextField
+번호 : bunTextField
+회원가입 버튼 : submitButton
+취소 버튼 : cancelButton
+창닫기 : closeButton
+-----------------------------------
+> 회원정보 수정 폼 JavaFX ID
+이름 : usernameTextField
+아이디 : useridTextField
+암호 : password1PasswordField
+암호 확인 : password2PasswordField
+학년 : hakTextField
+반 : banTextField
+번호 : bunTextField
+회원가입 버튼 : modifyButton
+취소 버튼 : resetButton
+창닫기 : closeButton
+-----------------------------------
+> 회원관리 폼 JavaFX ID
+이름 : usernameTextField
+아이디 : useridTextField
+암호 : password1PasswordField
+암호 확인 : password2PasswordField
+학년 : hakTextField
+반 : banTextField
+번호 : bunTextField
+수정 버튼 : updateButton
+삭제 버튼 : deleteButton
+리스트 읽기 버튼 : readlistButton
+창닫기 버튼 : closeButton
+테이블 뷰 : membershipTableView
+칼럼(이름) : userNameTableColumn
+칼럼(아이디) : userIdTableColumn
+칼럼(암호) : userPasswordTableColumn
+칼럼(학년) : userHakTableColumn
+칼럼(반) : userBanTableColumn
+칼럼(번호) : userBunTableColumn
+-----------------------------------
+</pre>
+</details>
+
 ### 1-1.SceneBuilder 로그인 폼
 [![](http://img.youtube.com/vi/G5ypEZekaJc/0.jpg)](https://youtu.be/G5ypEZekaJc)
 
