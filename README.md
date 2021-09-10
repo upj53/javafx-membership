@@ -92,7 +92,7 @@
 </details>
   
 ### 0-1.자바와 이클립스 설치와 HelloJavaFX
-[![](http://img.youtube.com/vi/WwiBVttXo8k/0.jpg)](https://youtu.be/WwiBVttXo8k){:target="_blank"}
+[![](http://img.youtube.com/vi/WwiBVttXo8k/0.jpg)](https://youtu.be/WwiBVttXo8k){: target="_blank"}
 
 ### 0-2.SceneBuilder 설치와 환경설정 그리고 HelloJavaFXML
 [![](http://img.youtube.com/vi/udBUx-6wLto/0.jpg)](https://youtu.be/udBUx-6wLto){:target="_blank"}
