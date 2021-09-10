@@ -16,7 +16,7 @@
 ▷컬러 코드
 메인색 : #304dff
 보조색 : #ccd3ff
------------------------------------
+
 ▷GUI 폼 종류
 1.공통
  > 로그인 폼
@@ -25,7 +25,7 @@
  > 회원정보 수정 폼
 3.관리자
  > 회원관리 폼
------------------------------------
+
 ▷JavaFX FXML 변수
 > 로그인 폼 JavaFX ID
 체크박스 : adminCheckBox
@@ -35,7 +35,7 @@
 회원가입 버튼 : registrationButton
 취소 버튼 : cancelButton
 창닫기 버튼 : closeButton
------------------------------------
+
 > 회원가입 폼 JavaFX ID
 이름 : usernameTextField
 아이디 : useridTextField
@@ -47,7 +47,7 @@
 회원가입 버튼 : submitButton
 취소 버튼 : cancelButton
 창닫기 : closeButton
------------------------------------
+
 > 회원정보 수정 폼 JavaFX ID
 이름 : usernameTextField
 아이디 : useridTextField
@@ -59,7 +59,7 @@
 회원가입 버튼 : modifyButton
 취소 버튼 : resetButton
 창닫기 : closeButton
------------------------------------
+
 > 회원관리 폼 JavaFX ID
 이름 : usernameTextField
 아이디 : useridTextField
@@ -79,7 +79,6 @@
 칼럼(학년) : userHakTableColumn
 칼럼(반) : userBanTableColumn
 칼럼(번호) : userBunTableColumn
------------------------------------
 
 ▶▶▶▶▶Java & FXML◀◀◀◀◀
 ▷Java FXML 파일과 Controller 연결관계 보기
@@ -108,7 +107,7 @@
 ▶컬러 코드
 메인색 : #304dff
 보조색 : #ccd3ff
------------------------------------
+
 ▶GUI 폼
 1.공통
  > 로그인 폼
@@ -117,7 +116,7 @@
  > 회원정보 수정 폼
 3.관리자
  > 회원관리 폼
------------------------------------
+
 ▶JavaFX FXML 변수
 > 로그인 폼 JavaFX ID
 체크박스 : adminCheckBox
@@ -127,7 +126,7 @@
 회원가입 버튼 : registrationButton
 취소 버튼 : cancelButton
 창닫기 버튼 : closeButton
------------------------------------
+
 > 회원가입 폼 JavaFX ID
 이름 : usernameTextField
 아이디 : useridTextField
@@ -139,7 +138,7 @@
 회원가입 버튼 : submitButton
 취소 버튼 : cancelButton
 창닫기 : closeButton
------------------------------------
+
 > 회원정보 수정 폼 JavaFX ID
 이름 : usernameTextField
 아이디 : useridTextField
@@ -151,7 +150,7 @@
 회원가입 버튼 : modifyButton
 취소 버튼 : resetButton
 창닫기 : closeButton
------------------------------------
+
 > 회원관리 폼 JavaFX ID
 이름 : usernameTextField
 아이디 : useridTextField
@@ -171,7 +170,6 @@
 칼럼(학년) : userHakTableColumn
 칼럼(반) : userBanTableColumn
 칼럼(번호) : userBunTableColumn
------------------------------------
 </pre>
 </details>
   
