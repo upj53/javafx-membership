@@ -11,7 +11,7 @@
 4.SceneBuilder-16.0.0.exe
 5.OracleXE112_Win64.zip
 6.sqldeveloper-21.2.0.187.1842-x64.zip
-<br><br>
+<br>
 ▶▶▶▶▶GUI 디자인 정보◀◀◀◀◀
 ▷컬러 코드
 메인색 : #304dff
