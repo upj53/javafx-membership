@@ -108,6 +108,3 @@ https://youtu.be/ZGBzUqWVQQw
 [![](http://img.youtube.com/vi/KLlBkHpqGk8/0.jpg)](https://youtu.be/KLlBkHpqGk8)
   
 https://youtu.be/KLlBkHpqGk8
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KLlBkHpqGk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
