@@ -1,7 +1,7 @@
 # JavaFX 멤버쉽 관리 애플리케이션 with Oracle Database
 ## 개발환경 설정
 ### 자바와 이클립스 설치와 HelloJavaFX
-<iframe width="956" height="538" src="https://youtu.be/WwiBVttXo8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video Label]](https://youtu.be/WwiBVttXo8k)
 https://youtu.be/WwiBVttXo8k  
 
 ### SceneBuilder 설치와 환경설정 그리고 HelloJavaFXML  
