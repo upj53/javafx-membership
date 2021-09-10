@@ -1,5 +1,18 @@
 # JavaFX 멤버쉽 관리 애플리케이션 with Oracle Database
 ## 0.개발환경 설정
+
+<details><summary>준비할 파일 보기</summary>
+<p>
+필요한 파일
+1.eclipse-inst-jre-win64.exe
+2.openjdk-15.0.2_windows-x64_bin.zip
+3.openjfx-15.0.1_windows-x64_bin-sdk.zip
+4.SceneBuilder-16.0.0.exe
+5.OracleXE112_Win64.zip
+6.sqldeveloper-21.2.0.187.1842-x64.zip
+</p>
+</details>
+  
 ### 0-1.자바와 이클립스 설치와 HelloJavaFX
 [![0-1.자바와 이클립스 설치와 HelloJavaFX](http://img.youtube.com/vi/WwiBVttXo8k/0.jpg)](https://youtu.be/WwiBVttXo8k)
 
