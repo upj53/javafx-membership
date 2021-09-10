@@ -3,6 +3,7 @@
 
 <details><summary>준비할 파일 보기</summary>
 <p>
+```
 필요한 파일
 1.eclipse-inst-jre-win64.exe
 2.openjdk-15.0.2_windows-x64_bin.zip
@@ -10,6 +11,7 @@
 4.SceneBuilder-16.0.0.exe
 5.OracleXE112_Win64.zip
 6.sqldeveloper-21.2.0.187.1842-x64.zip
+```
 </p>
 </details>
   
