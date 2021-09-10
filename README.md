@@ -19,15 +19,15 @@
 
 ▷GUI 폼 종류
 1.공통
- > 로그인 폼
+  로그인 폼
 2.사용자
- > 회원가입 폼
- > 회원정보 수정 폼
+  회원가입 폼
+  회원정보 수정 폼
 3.관리자
- > 회원관리 폼
+  회원관리 폼
 
 ▷JavaFX FXML 변수
-> 로그인 폼 JavaFX ID
+1.로그인 폼 JavaFX ID
 체크박스 : adminCheckBox
 사용자 아이디 : useridTextField
 사용자 암호 : passwordPasswordField
@@ -36,7 +36,7 @@
 취소 버튼 : cancelButton
 창닫기 버튼 : closeButton
 
-> 회원가입 폼 JavaFX ID
+2-1.회원가입 폼 JavaFX ID
 이름 : usernameTextField
 아이디 : useridTextField
 암호 : password1PasswordField
@@ -48,7 +48,7 @@
 취소 버튼 : cancelButton
 창닫기 : closeButton
 
-> 회원정보 수정 폼 JavaFX ID
+2-2.회원정보 수정 폼 JavaFX ID
 이름 : usernameTextField
 아이디 : useridTextField
 암호 : password1PasswordField
@@ -60,7 +60,7 @@
 취소 버튼 : resetButton
 창닫기 : closeButton
 
-> 회원관리 폼 JavaFX ID
+3-1.회원관리 폼 JavaFX ID
 이름 : usernameTextField
 아이디 : useridTextField
 암호 : password1PasswordField
@@ -110,15 +110,15 @@
 
 ▶GUI 폼
 1.공통
- > 로그인 폼
+  로그인 폼
 2.사용자
- > 회원가입 폼
- > 회원정보 수정 폼
+  회원가입 폼
+  회원정보 수정 폼
 3.관리자
- > 회원관리 폼
+  회원관리 폼
 
 ▶JavaFX FXML 변수
-> 로그인 폼 JavaFX ID
+1.로그인 폼 JavaFX ID
 체크박스 : adminCheckBox
 사용자 아이디 : useridTextField
 사용자 암호 : passwordPasswordField
@@ -127,7 +127,7 @@
 취소 버튼 : cancelButton
 창닫기 버튼 : closeButton
 
-> 회원가입 폼 JavaFX ID
+2-1.회원가입 폼 JavaFX ID
 이름 : usernameTextField
 아이디 : useridTextField
 암호 : password1PasswordField
@@ -139,7 +139,7 @@
 취소 버튼 : cancelButton
 창닫기 : closeButton
 
-> 회원정보 수정 폼 JavaFX ID
+2-2.회원정보 수정 폼 JavaFX ID
 이름 : usernameTextField
 아이디 : useridTextField
 암호 : password1PasswordField
@@ -151,7 +151,7 @@
 취소 버튼 : resetButton
 창닫기 : closeButton
 
-> 회원관리 폼 JavaFX ID
+3-1.회원관리 폼 JavaFX ID
 이름 : usernameTextField
 아이디 : useridTextField
 암호 : password1PasswordField
