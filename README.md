@@ -1,4 +1,7 @@
 # JavaFX 멤버쉽 관리 애플리케이션 with Oracle Database
+
+[성일정보고등학교](https://github.com/upj53/javafx-membership)    
+
 ## 0.개발환경 설정
 
 <details><summary>준비할 파일과 환경설정 모두보기</summary>
